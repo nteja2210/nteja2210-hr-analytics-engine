@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Intelligent HR Analytics Engine
 
 Special Project (3rd year) - Application area: **Workforce Analytics**
@@ -55,3 +56,7 @@ Column names are identical, so no code changes are needed.
 - **Imbalance:** only ~16-18% of employees leave, so `class_weight="balanced"` is used and models are judged on recall, F1 and ROC-AUC, not just accuracy. The decision threshold is tuned for F1.
 - **Explainability:** SHAP shows which factors raise or lower each employee's risk.
 - **Segmentation:** KMeans on age, income, tenure, satisfaction, work-life balance and promotion gap; clusters are named from their centroid profile.
+=======
+# hr-analytics-engine
+>>>>>>> 57f07e312b7186309b103b72c3b267bdd74c6d8e
+# nteja2210-hr-analytics-engine
